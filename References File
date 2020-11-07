@@ -83,3 +83,14 @@ SOFTWARE.
   year={2010},
   organization={Austin, TX}
 }
+
+
+
+ ################# RE #################
+
+@book{van1995python, 
+  title={The Python Library Reference, release 3.8.2},
+  author={Van Rossum, Guido}, 
+  year={2020}, 
+  publisher={Python Software Foundation} 
+}
