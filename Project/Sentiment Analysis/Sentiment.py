@@ -85,11 +85,7 @@ for i in range(0,8426):
 #print(corpus)
 
 #########################################################################
-#i am happily sad
-# i dont want to die please dont kill us corona
-#god knows when will the covid vaccine arrive.till then are we supposed to get crumbled like ants?
-#my model is worst.still i love it
-#can you please STFU###
+
 
 # Creating the Bag of Words model
 from sklearn.feature_extraction.text import CountVectorizer
