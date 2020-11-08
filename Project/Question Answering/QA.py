@@ -207,7 +207,7 @@ while count==1:    # a loop so that user can ask multiple times
             XtestCase = cv.transform(corpusCase).toarray()
             yPredCase = classifier.predict(XtestCase)
             new=yPredCase[0]
-            print(new)
+            print("Your Answer is: ",new)
             print("The accuracy of the ML model is ",ac)
 
             print("Would you like to continue 1-yes 0-no ")
