@@ -9,6 +9,11 @@ In each, Sentiment Analysis and Question Answering folder we have a dataset fold
 Dataset of Sentiment Analysis : http://www.kgswc.org/hackathon-2020/
 Dataset of Question Answering : https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv , https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv
 
+
+Manipulations have been done in dataset to fit them into the project scope.
+
+For the mask support dataset, originally it contained percentages, but in the dataset we reversed it and stored as an integer number and inside the code we have calculated the percentage for simplicity.
+
 For this project we have used open source libraries anc packages
 
 sklearn
