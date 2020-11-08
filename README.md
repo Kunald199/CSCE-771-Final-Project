@@ -12,7 +12,7 @@ Dataset of Question Answering : https://github.com/nytimes/covid-19-data/blob/ma
 
 Manipulations have been done in dataset to fit them into the project scope.
 
-For the mask support dataset, originally it contained percentages, but in the dataset we reversed it and stored as an integer number and inside the code we have calculated the percentage for simplicity.
+For the mask support dataset, originally it contained float numbers, but in the dataset we stored it as an integer number and inside the code we have calculated the percentage for simplicity.
 *******************************************************************************
 For this project we have used open source libraries and packages
 
