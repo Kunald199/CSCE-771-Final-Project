@@ -30,3 +30,6 @@ For executing the file, download a zip in your local computer and execute the pr
 
 For Sentiment Analysis, write "Sentiment.py" in cmd to run the program and for Question Answering write "QA.py" in cmd  to run the program
 Note: Ensure that you are in proper folder
+
+*******************************************************************************
+Inside the Question Answering and Sentiment Analysis folder, there are PNG files which will give a basic idea about how the system is working and in what way you can ask questions.
