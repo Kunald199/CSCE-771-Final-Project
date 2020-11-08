@@ -14,7 +14,7 @@ Manipulations have been done in dataset to fit them into the project scope.
 
 For the mask support dataset, originally it contained percentages, but in the dataset we reversed it and stored as an integer number and inside the code we have calculated the percentage for simplicity.
 *******************************************************************************
-For this project we have used open source libraries anc packages
+For this project we have used open source libraries and packages
 
 sklearn
 numpy 
