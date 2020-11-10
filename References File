@@ -94,3 +94,8 @@ SOFTWARE.
   year={2020}, 
   publisher={Python Software Foundation} 
 }
+
+
+############## Sentiment Analysis Remove Emojis################
+
+The piece of code was referred from the following github: https://gist.github.com/slowkow/7a7f61f495e3dbb7e3d767f97bd7304b#gistcomment-3315605
