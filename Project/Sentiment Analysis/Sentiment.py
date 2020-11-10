@@ -1,6 +1,5 @@
 # Importing the required libraries
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 import re
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
